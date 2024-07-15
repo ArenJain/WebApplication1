@@ -1,2 +1,5 @@
 [Oo]bj/
 *.obj
+obj/
+
+bin/
